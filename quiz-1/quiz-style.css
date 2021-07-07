@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=PT+Sans&display=swap');
+html,
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(239, 243, 247);
+    margin: 0;
+    padding: 0;
+    background-image: url('https://images.unsplash.com/photo-1487260211189-670c54da558d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80');
+    background-attachment: fixed;
+    background-size: contain;
+}
+
+h2 {
+    margin: 50px 0;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+div {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: rgba(180, 176, 176, 0.651);
+    text-align: center;
+}
+
+li a {
+    text-decoration: none;
+}
